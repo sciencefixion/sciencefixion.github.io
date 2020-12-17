@@ -6,7 +6,7 @@ author: rion
 
 "Marley was dead: to begin with."
 
-- Charles Dickens, A Christmas Carol
+-- Charles Dickens, A Christmas Carol
 
 
 I decided to start with someone else's beginning because starting something new is quite challenging. If I've learned one thing from the past year spent becoming a software developer, it's that there's no shame in standing on the shoulders of giants. I use that turn of phrase because it sounds so much better than copy and paste!
