@@ -1,5 +1,4 @@
 ---
-layout: post
 author: rion
 ---
 # The Beginning is the End is the Beginning
