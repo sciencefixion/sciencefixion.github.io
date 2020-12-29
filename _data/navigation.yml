@@ -1,8 +1,27 @@
 - name: Home
   link: /
+  external: false
+
 - name: About
   link: /about.html
+  external: false
+
+- name: GitHub
+  link: https://github.com/sciencefixion
+  external: true
+
+- name: Portfolio
+  link: /portfolio.html
+  external: false
+
+- name: Resume
+  link: https://media-exp1.licdn.com/dms/document/C562DAQHrEhvUu5h4Zw/profile-treasury-document-pdf-analyzed/0/1608774680954?e=1608861600&v=beta&t=gUc6AvHhbz_t_115w8yB4fRM8-NByVvDHoiiw_5p4nM
+  external: true
+
 - name: Blog
   link: /blog.html
+  external: false
+
 - name: Staff
   link: /staff.html
+  external: false
