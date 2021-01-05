@@ -10,4 +10,4 @@ Thanks to my partner, family, and friends who've continued to support me through
 
 <hr>
 
-I hope the knowledge that I've gained through all my years of learning can be a tribute and benefit those without which it would not be possible as well as promote authentic connection and cooperation with those I have the privilege of interacting with in the future.
+I hope the knowledge that I've gained through all my years of learning can be a tribute and benefit those without which it would not have been possible as well as promote authentic connection and cooperation with those I have the privilege of interacting with in the future.
