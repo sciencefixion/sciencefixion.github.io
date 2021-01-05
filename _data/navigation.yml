@@ -2,10 +2,6 @@
   link: /
   external: false
 
-- name: About
-  link: /about.html
-  external: false
-
 - name: GitHub
   link: https://github.com/sciencefixion
   external: true
@@ -20,8 +16,4 @@
 
 - name: Blog
   link: /blog.html
-  external: false
-
-- name: Staff
-  link: /staff.html
   external: false
