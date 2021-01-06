@@ -1,0 +1,7 @@
+<!-- This file is unused but was created in the jekyll tutorial and is left here for reference -->
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}> {{ item.name }}
+    </a>
+  {% endfor %}
+</nav>
