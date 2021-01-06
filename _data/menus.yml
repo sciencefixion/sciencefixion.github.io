@@ -6,8 +6,8 @@
   url: https://alumni.turing.io/alumni/rion-dorion-hutsell
   external: true
 
-- title: blog
-  url: /blog.html
+- title: archive
+  url: /archive/
   external: false
 
 - title: github
