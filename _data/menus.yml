@@ -1,0 +1,19 @@
+- title: Home
+  url: /
+  external: false
+
+- title: Resume
+  url: https://media-exp1.licdn.com/dms/document/C562DAQHrEhvUu5h4Zw/profile-treasury-document-pdf-analyzed/0/1608774680954?e=1608861600&v=beta&t=gUc6AvHhbz_t_115w8yB4fRM8-NByVvDHoiiw_5p4nM
+  external: true
+
+- title: Portfolio
+  url: https://alumni.turing.io/alumni/rion-dorion-hutsell
+  external: true
+
+- title: GitHub
+  url: https://github.com/sciencefixion
+  external: true
+
+- title: Blog
+  url: /blog.html
+  external: false
