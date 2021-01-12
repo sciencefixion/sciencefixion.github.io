@@ -1,0 +1,19 @@
+- title: home
+  url: /
+  external: false
+
+- title: portfolio
+  url: https://alumni.turing.io/alumni/rion-dorion-hutsell
+  external: true
+
+- title: archive
+  url: /archive/
+  external: false
+
+- title: github
+  url: https://github.com/sciencefixion
+  external: true
+
+- title: resume
+  url: https://alumni.turing.io/sites/default/files/resumes/Rion%20Hutsell%20Resume.pdf
+  external: true
