@@ -4,7 +4,7 @@ description: >- # site description
   Software engineer relating what I've learned about web technology, blockchain, communication, music, and art.
 lang: en-US # default lang
 timezone: America/Denver # set your timezone
-# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/sciencefixion/sciencefixion.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
