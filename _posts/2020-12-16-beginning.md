@@ -1,7 +1,7 @@
 ---
 author: rion
+title: The Beginning is the End is the Beginning
 ---
-# The Beginning is the End is the Beginning
 
 "Marley was dead: to begin with."
 
