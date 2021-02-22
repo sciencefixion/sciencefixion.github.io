@@ -15,7 +15,11 @@ I'm a software engineer, writer, musician, and amateur philosopher currently wor
 
 ### GitHub Stats
 
-![Rion's github stats](https://github-readme-stats.vercel.app/api?username=sciencefixion&show_icons=true&theme=synthwave)
+![Rion's GitHub stats](https://github-readme-stats.vercel.app/api?username=sciencefixion&show_icons=true&theme=synthwave)
+
+### GitHub Submissions in 3D!
+
+[Rion's GitHub submissions in 3D (no glasses required 😎) ](https://skyline.github.com/sciencefixion/2020)
 
 ### Theme
 
