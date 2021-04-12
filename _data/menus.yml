@@ -15,5 +15,5 @@
   external: true
 
 - title: resume
-  url: https://alumni.turing.io/sites/default/files/resumes/Rion%20Hutsell%20Resume_0.pdf
+  url: https://turing-terminal-production.s3.us-east-2.amazonaws.com/0lvcud262dw0m9mdl7f7qd9zbyhi?response-content-disposition=inline%3B%20filename%3D%22Rion-20Hutsell-20Resume_0.pdf%22%3B%20filename%2A%3DUTF-8%27%27Rion-20Hutsell-20Resume_0.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3LJHOIGWOPTBZWP6%2F20210412%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T210629Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3a5788a5db57618b145947ddbd1bff528387e0b6bf5bf27053af6429b2b6e0b6
   external: true
