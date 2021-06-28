@@ -3,7 +3,7 @@
   external: false
 
 - title: portfolio
-  url: https://alumni.turing.io/alumni/rion-dorion-hutsell
+  url: https://terminal.turing.edu/alumni/714-rion-hutsell
   external: true
 
 - title: archive
@@ -15,5 +15,5 @@
   external: true
 
 - title: resume
-  url: https://turing-terminal-production.s3.us-east-2.amazonaws.com/0lvcud262dw0m9mdl7f7qd9zbyhi?response-content-disposition=inline%3B%20filename%3D%22Rion-20Hutsell-20Resume_0.pdf%22%3B%20filename%2A%3DUTF-8%27%27Rion-20Hutsell-20Resume_0.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3LJHOIGWOPTBZWP6%2F20210412%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T210629Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3a5788a5db57618b145947ddbd1bff528387e0b6bf5bf27053af6429b2b6e0b6
+  url: https://turing-terminal-production.s3.us-east-2.amazonaws.com/0lvcud262dw0m9mdl7f7qd9zbyhi?response-content-disposition=inline%3B%20filename%3D%22Rion-20Hutsell-20Resume_0.pdf%22%3B%20filename%2A%3DUTF-8%27%27Rion-20Hutsell-20Resume_0.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3LJHOIGWOPTBZWP6%2F20210628%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210628T063226Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=bd8852231a1055b1309eaf30cc0c6581d5d2b85e075e48367f2d397fe3528249
   external: true
