@@ -8,7 +8,7 @@ You can find me at the intersection of technology and liberal arts!
 
 ### I am currently accepting new job offers!
 
-I'm a software engineer, writer, musician, and part-time philosopher currently working to grow my knowledge in the fields of blockchain technology and cryptocurrency. I have prior experience in mass communication/journalism, computer hardware repair (ACMT certification), and customer service. I fit in perfectly with cross-functional teams that highly value balance and innovation.
+I'm a software engineer, writer, musician, and part-time philosopher currently working to grow my knowledge in the fields of cryptography and economics. I have prior experience in mass communication and journalism, computer hardware repair (ACMT certification), and customer service. I fit in perfectly with cross-functional teams that highly value balance and innovation.
 
 [Email me if you want me on your team!](mailto:sciencefixion@pm.me)
 
