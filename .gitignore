@@ -6,3 +6,4 @@ _drafts
 Gemfile.lock
 .DS_Store
 sandbox
+node_modules
