@@ -3,8 +3,8 @@
   external: false
 
 - title: portfolio
-  url: https://terminal.turing.edu/profiles/714
-  external: true
+  url: /portfolio/
+  external: false
 
 - title: archive
   url: /archive/

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="portfolio">
+  <h1 class="text-center">Portfolio</h1>
+  <div class="container">
+    <div class="row">
+      {% assign proj_reverse = site.portfolio | reverse %}
+      {% for project in proj_reverse %}
+      <div class="col-lg-4 col-md-4 col-sm-12">
+        <div onclick="location.href='{{ project.url }}';" class="parent">
+          <div class="img-fluid img">
+            <img src="{{ project.image }}">
+          </div>
+          <div class="text">
+            <p>
+              {{ project.excerpt | strip_html }}
+            </p>
+          </div>
+        </div>
+        <h3>{{ project.title }}</h3>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
