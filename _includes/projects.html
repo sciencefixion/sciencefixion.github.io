@@ -1,0 +1,34 @@
+<div class="user-details">
+  <h2 class="main-header"> Featured Projects </h2>
+</div>
+{% assign proj_reverse = site.portfolio | where_exp: "project", "project.front" | reverse %}
+{% for project in proj_reverse %}
+<div class="user-projects">
+  {% assign index = forloop.index | modulo: 2 %}
+  {% if index == 0 %}
+  <div class="images-left">
+    {% else %}
+    <div class="images-right">
+      {% endif %}
+      <img alt="project_image" src="{{ project.image }}" />
+    </div>
+    {% if index == 0 %}
+    <div class="contents-right">
+      {% else %}
+      <div class="contents">
+        {% endif %}
+        <h3 class="project-title">{{ project.title | escape }}</h3>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ project.date | date: date_format }}</span>
+        <p>
+          {{ project.excerpt | strip_html }}
+        </p>
+        <ul class="project-buttons">
+          <li><a class="project-link" href="{{ project.permalink }}">Blog post</a></li>
+          <li><a class="project-link" target="_blank"
+              href="http://github.com/{{ site.github_username }}/{{ project.github }}">Github</a></li>
+        </ul>
+      </div>
+    </div>
+    {% endfor %}
+    <a class="project-link project-center" href="/portfolio/">All projects</a>
