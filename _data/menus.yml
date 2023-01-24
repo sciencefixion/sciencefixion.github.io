@@ -17,3 +17,7 @@
 - title: resume
   url: https://terminal.turing.edu/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5316f80cc456187efa5a2a0e9015f685fd6f835a/rhutsell_resume.pdf
   external: true
+
+- title: 👾
+  url: /404/
+  external: false
