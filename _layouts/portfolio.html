@@ -12,6 +12,7 @@ layout: default
     <div class="row">
       {% assign proj_reverse = site.portfolio | reverse %}
       {% for project in proj_reverse %}
+      <h3>{{ project.title }}</h3>
       <div class="col-lg-4 col-md-4 col-sm-12">
         <div onclick="location.href='{{ project.url }}';" class="parent">
           <div class="img-fluid img">
@@ -23,7 +24,6 @@ layout: default
             </p>
           </div>
         </div>
-        <h3>{{ project.title }}</h3>
       </div>
       {% endfor %}
     </div>
