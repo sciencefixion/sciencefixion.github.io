@@ -1,4 +1,4 @@
-## 👾 Rion Hutsell - Software Engineer
+## 👾 Rion Roark-Hutsell - Software Engineer
 
 Salutations, I'm Rion! I use any pronouns.
 
