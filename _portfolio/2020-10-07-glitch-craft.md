@@ -1,10 +1,10 @@
 ---
-layout: post
 title: GlitchCraft
+permalink: /portfolio/glitchcraft/
+layout: post
 categories: portfolio
 image: /assets/img/glitchcraft.png
 github: glitch_craft
-permalink: /portfolio/glitchcraft/
 front: true
 ---
 
