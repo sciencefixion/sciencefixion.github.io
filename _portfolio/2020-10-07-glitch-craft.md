@@ -8,9 +8,9 @@ github: glitch_craft
 front: true
 ---
 
-## GlitchCraft
+## GlitchCraft is a Ruby on Rails application allowing users to glitch images. Users can search for a keyword which then returns an image from two APIs via the GlitchService Microservice.
 
-GlitchCraft is a Ruby on Rails application allowing users to glitch images. Users can search for a keyword which then returns an image from two APIs via the GlitchService Microservice. One of these images is then chosen to be glitched.
+ One of these images is then chosen to be glitched.
 
 The first image returned is generated from scratch by DeepAI, and the second is returned based on human image tags from Pixabay. This gives users the unique option to glitch an image that is either what an AI thinks the search term represents or what humans tag an image as.
 
